@@ -1,0 +1,14 @@
+layout_spectrum: 0.6020584157668054
+typography_spectrum: 0.2422508066520095
+color:
+  brandStrength: 0.9067331396508962
+  lightness: 0.2827303418889642
+  saturation: 0.8732035988941789
+  rhythmicContrast: 0.8641009498387575
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Briz
